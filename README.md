@@ -63,5 +63,3 @@ The Umpire DRS Kit is a Python application designed to simulate the Decision Rev
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
